@@ -11,5 +11,8 @@
 
         <Entry Text="{Binding Name}" Placeholder="Digite seu nome" />
         <Label Text="{Binding DisplayName}" />
+        <Button Command="{Binding CountCommand}" Text="Contar Caracteres"/>
+        <Button Command="{Binding CleanCommand}" Text="Limpar Campos" />
+        <Button Command="{Binding OptionCommand}" Text="Exibir Opções" />
     </VerticalStackLayout>
 </ContentPage>

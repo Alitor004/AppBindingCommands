@@ -24639,11 +24639,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Arquivos\\Alex DS3\\PAM2\\Aula04\\AppBindingCommands\\AppBindingCommands\\AppBindingCommands.csproj",
+      "projectUniqueName": "A:\\Alex DS3\\PAM2\\Aula04\\AppBindingCommands\\AppBindingCommands\\AppBindingCommands.csproj",
       "projectName": "AppBindingCommands",
-      "projectPath": "C:\\Arquivos\\Alex DS3\\PAM2\\Aula04\\AppBindingCommands\\AppBindingCommands\\AppBindingCommands.csproj",
+      "projectPath": "A:\\Alex DS3\\PAM2\\Aula04\\AppBindingCommands\\AppBindingCommands\\AppBindingCommands.csproj",
       "packagesPath": "C:\\Users\\etechas\\.nuget\\packages\\",
-      "outputPath": "C:\\Arquivos\\Alex DS3\\PAM2\\Aula04\\AppBindingCommands\\AppBindingCommands\\obj\\",
+      "outputPath": "A:\\Alex DS3\\PAM2\\Aula04\\AppBindingCommands\\AppBindingCommands\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [

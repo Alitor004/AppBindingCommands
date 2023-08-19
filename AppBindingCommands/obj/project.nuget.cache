@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5pP7ReP4FmCeWePwsJulndOsdQwntNa34twlZ3VYaiFkwN+CmlqTEhZdZrQqL2zxGHsPHwLRhSUda0jBIgel0A==",
+  "dgSpecHash": "6MS2A7/qX6Vsa5X4jI6yTEY2cQMdqFzTRXIVapOmnvKfbtfH6bcxBcsVAeLpxxSR/xpXZXH7KXrgLUt4Totjjw==",
   "success": true,
-  "projectFilePath": "C:\\Arquivos\\Alex DS3\\PAM2\\Aula04\\AppBindingCommands\\AppBindingCommands\\AppBindingCommands.csproj",
+  "projectFilePath": "A:\\Alex DS3\\PAM2\\Aula04\\AppBindingCommands\\AppBindingCommands\\AppBindingCommands.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\etechas\\.nuget\\packages\\googlegson\\2.9.0.1\\googlegson.2.9.0.1.nupkg.sha512",
     "C:\\Users\\etechas\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.1\\microsoft.extensions.configuration.6.0.1.nupkg.sha512",
